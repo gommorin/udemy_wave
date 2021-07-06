@@ -48,6 +48,11 @@ body {
   border-radius: 10px;
 }
 
+.btn:hover {
+  background-color: #ff5656;
+  color: white;
+}
+
 .btn:focus {
   outline: 0;
 }
